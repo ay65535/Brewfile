@@ -8,9 +8,9 @@ brew automake
 brew bash --HEAD
 brew bash-completion
 brew brew-cask-completion
-brew curl --with-rtmpdump --with-libssh2 --with-c-ares --with-gssapi --with-libmetalink --with-nghttp2
+brew curl --with-c-ares --with-gssapi --with-libmetalink --with-libssh2 --with-nghttp2 --with-rtmpdump
 brew diff-so-fancy
-brew ffmpeg --with-fdk-aac --with-libass --with-rtmpdump --with-sdl2 --with-webp --with-x265 --with-fontconfig --with-game-music-emu --with-libbluray --with-libvorbis --with-libvpx --with-opus --HEAD
+brew ffmpeg --with-fdk-aac --with-libass --with-rtmpdump --with-sdl2 --with-webp --with-x265 --with-fontconfig --with-game-music-emu --with-libbluray --with-libvorbis --with-libvpx --with-opus
 brew fzf --HEAD
 brew gettext
 brew ghq
@@ -22,6 +22,7 @@ brew gnu-getopt
 brew go --HEAD
 brew gpac --with-libogg --with-libvorbis --with-ffmpeg
 brew hub --HEAD
+brew lame
 brew launchctl-completion
 brew lesspipe --with-syntax-highlighting
 brew libevent
@@ -29,6 +30,7 @@ brew libidn2
 brew libtool
 brew libunistring
 brew mas
+brew nasm
 brew nkf
 brew nmap
 brew open-completion --HEAD
@@ -39,10 +41,13 @@ brew pkg-config
 brew rmtrash
 brew ruby-completion --HEAD
 brew shfmt
+brew texi2html
 brew tmux
 brew tree
 brew vagrant-completion --HEAD
 brew wget
+brew x264
+brew xvid
 brew youtube-dl --HEAD
 brew zsh-completions --HEAD
 
