@@ -26,6 +26,7 @@ brew lame
 brew launchctl-completion
 brew lesspipe --with-syntax-highlighting
 brew libevent
+brew libffi
 brew libidn2
 brew libtool
 brew libunistring
@@ -35,6 +36,7 @@ brew nkf
 brew nmap
 brew open-completion --HEAD
 brew openssl
+brew pcre
 brew pcre2
 brew peco --HEAD
 brew pkg-config
