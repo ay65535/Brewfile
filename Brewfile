@@ -36,6 +36,7 @@ brew nkf
 brew nmap
 brew open-completion --HEAD
 brew openssl
+brew pandoc
 brew pcre
 brew pcre2
 brew peco --HEAD
@@ -64,9 +65,10 @@ cask powershell-preview
 cask visual-studio-code-insiders
 
 tap homebrew/cask
-cask air-video-server-hd
-cask bbedit
-cask dropbox
+cask 1password
+cask appcleaner
+cask clipy
+cask dupscanub
 cask google-chrome
 cask jetbrains-toolbox
 cask onedrive
@@ -89,9 +91,10 @@ brew ricty --with-powerline
 brew ripgrep-bin
 
 # Other Cask applications
-cask appcleaner
-cask clipy
-cask dupscanub
+cask air-video-server-hd
+cask bbedit
+cask dropbox
+cask evernote
 cask google-japanese-ime
 cask macwinzipper
 cask parallels-client
