@@ -8,10 +8,17 @@ brew automake
 brew bash --HEAD
 brew bash-completion
 brew brew-cask-completion
+brew cairo
+brew coreutils
 brew curl --with-c-ares --with-gssapi --with-libmetalink --with-libssh2 --with-nghttp2 --with-rtmpdump
 brew diff-so-fancy
+brew fdk-aac
 brew ffmpeg --with-fdk-aac --with-libass --with-rtmpdump --with-sdl2 --with-webp --with-x265 --with-fontconfig --with-game-music-emu --with-libbluray --with-libvorbis --with-libvpx --with-opus
+brew fontconfig
+brew freetype
+brew fribidi
 brew fzf --HEAD
+brew game-music-emu
 brew gettext
 brew ghq
 brew git --with-pcre2 --HEAD
@@ -21,41 +28,59 @@ brew glib
 brew gnu-getopt
 brew go --HEAD
 brew gpac --with-libogg --with-libvorbis --with-ffmpeg
+brew graphite2
+brew harfbuzz
 brew hub --HEAD
+brew icu4c
+brew jpeg
 brew lame
 brew launchctl-completion
 brew lesspipe --with-syntax-highlighting
+brew libass
+brew libbluray
 brew libevent
 brew libffi
 brew libidn2
+brew libogg
+brew libpng
 brew libtool
 brew libunistring
+brew libvorbis
+brew libvpx
 brew mas
 brew nasm
 brew nkf
 brew nmap
 brew open-completion --HEAD
 brew openssl
+brew opus
 brew pandoc
 brew pcre
 brew pcre2
 brew peco --HEAD
+brew pixman
 brew pkg-config
+brew reattach-to-user-namespace --HEAD
 brew rmtrash
+brew rtmpdump
 brew ruby-completion --HEAD
+brew sdl2
 brew shfmt
 brew texi2html
 brew tmux
 brew tree
 brew vagrant-completion --HEAD
+brew webp
 brew wget
 brew x264
+brew x265
 brew xvid
 brew youtube-dl --HEAD
 brew zsh-completions --HEAD
 
 tap homebrew/cask-fonts
 cask font-fira-code
+cask font-source-code-pro-for-powerline
 
 tap homebrew/cask-versions
 cask atom-beta
@@ -95,6 +120,8 @@ cask air-video-server-hd
 cask bbedit
 cask dropbox
 cask evernote
+cask font-source-code-pro
+cask font-source-han-code-jp
 cask google-japanese-ime
 cask macwinzipper
 cask parallels-client
