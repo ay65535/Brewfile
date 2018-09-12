@@ -26,7 +26,7 @@ brew git-flow-avh
 brew git-lfs
 brew glib
 brew gnu-getopt
-brew go --HEAD
+brew go
 brew gpac --with-libogg --with-libvorbis --with-ffmpeg
 brew graphite2
 brew harfbuzz
@@ -86,6 +86,7 @@ tap homebrew/cask-versions
 cask atom-beta
 cask docker-edge
 cask iterm2-nightly
+cask microsoft-remote-desktop-beta
 cask powershell-preview
 cask visual-studio-code-insiders
 
