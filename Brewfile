@@ -85,6 +85,7 @@ cask font-source-code-pro-for-powerline
 tap homebrew/cask-versions
 cask atom-beta
 cask docker-edge
+cask google-chrome-canary
 cask iterm2-nightly
 cask microsoft-remote-desktop-beta
 cask powershell-preview
@@ -92,9 +93,10 @@ cask visual-studio-code-insiders
 
 tap homebrew/cask
 cask 1password
-cask appcleaner
-cask clipy
-cask dupscanub
+cask air-video-server-hd
+cask bbedit
+cask dropbox
+cask evernote
 cask google-chrome
 cask jetbrains-toolbox
 cask onedrive
@@ -117,10 +119,10 @@ brew ricty --with-powerline
 brew ripgrep-bin
 
 # Other Cask applications
-cask air-video-server-hd
-cask bbedit
-cask dropbox
-cask evernote
+cask adobe-air
+cask appcleaner
+cask clipy
+cask dupscanub
 cask font-source-code-pro
 cask font-source-han-code-jp
 cask google-japanese-ime
