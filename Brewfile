@@ -7,7 +7,9 @@ brew autoconf
 brew automake
 brew bash --HEAD
 brew bash-completion
+brew boost
 brew brew-cask-completion
+brew c-ares
 brew cairo
 brew coreutils
 brew curl --with-c-ares --with-gssapi --with-libmetalink --with-libssh2 --with-nghttp2 --with-rtmpdump
@@ -27,28 +29,34 @@ brew git-lfs
 brew glib
 brew gnu-getopt
 brew go
-brew gpac --with-libogg --with-libvorbis --with-ffmpeg
+brew gpac
 brew graphite2
 brew harfbuzz
 brew hub --HEAD
 brew icu4c
+brew jansson
+brew jemalloc
 brew jpeg
 brew lame
 brew launchctl-completion
 brew lesspipe --with-syntax-highlighting
 brew libass
 brew libbluray
+brew libev
 brew libevent
 brew libffi
 brew libidn2
+brew libmetalink
 brew libogg
 brew libpng
+brew libssh2
 brew libtool
 brew libunistring
 brew libvorbis
 brew libvpx
 brew mas
 brew nasm
+brew nghttp2
 brew nkf
 brew nmap
 brew open-completion --HEAD
