@@ -14,6 +14,7 @@ brew cairo
 brew coreutils
 brew curl --with-c-ares --with-gssapi --with-libmetalink --with-libssh2 --with-nghttp2 --with-rtmpdump
 brew diff-so-fancy
+brew dos2unix
 brew fdk-aac
 brew ffmpeg --with-fdk-aac --with-libass --with-rtmpdump --with-sdl2 --with-webp --with-x265 --with-fontconfig --with-game-music-emu --with-libbluray --with-libvorbis --with-libvpx --with-opus
 brew fontconfig
