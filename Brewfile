@@ -24,7 +24,7 @@ brew fzf --HEAD
 brew game-music-emu
 brew gettext
 brew ghq
-brew git --with-pcre2 --HEAD
+brew git
 brew git-flow-avh
 brew git-lfs
 brew glib
