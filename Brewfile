@@ -57,6 +57,7 @@ brew libvorbis
 brew libvpx
 brew mas
 brew nasm
+brew ncdu
 brew nghttp2
 brew nkf
 brew nmap
@@ -104,8 +105,8 @@ tap homebrew/cask
 cask 1password
 cask air-video-server-hd
 cask bbedit
-cask dropbox
-cask evernote
+cask disk-inventory-x
+cask dupscanub
 cask google-chrome
 cask jetbrains-toolbox
 cask onedrive
@@ -131,7 +132,8 @@ brew ripgrep-bin
 cask adobe-air
 cask appcleaner
 cask clipy
-cask dupscanub
+cask dropbox
+cask evernote
 cask font-source-code-pro
 cask font-source-han-code-jp
 cask google-japanese-ime
