@@ -22,12 +22,14 @@ brew freetype
 brew fribidi
 brew fzf --HEAD
 brew game-music-emu
+brew gawk
 brew gettext
 brew ghq
 brew git
 brew git-flow-avh
 brew git-lfs
 brew glib
+brew gmp
 brew gnu-getopt
 brew go
 brew gpac
@@ -56,6 +58,7 @@ brew libunistring
 brew libvorbis
 brew libvpx
 brew mas
+brew mpfr
 brew nasm
 brew ncdu
 brew nghttp2
@@ -70,6 +73,7 @@ brew pcre2
 brew peco --HEAD
 brew pixman
 brew pkg-config
+brew readline
 brew reattach-to-user-namespace --HEAD
 brew rmtrash
 brew rtmpdump
@@ -99,6 +103,7 @@ cask google-chrome-canary
 cask iterm2-nightly
 cask microsoft-remote-desktop-beta
 cask powershell-preview
+cask safari-technology-preview
 cask visual-studio-code-insiders
 
 tap homebrew/cask
@@ -116,6 +121,7 @@ cask virtualbox
 cask vmware-fusion
 
 tap beeftornado/rmtree
+brew brew-rmtree
 
 tap burntsushi/ripgrep
 
