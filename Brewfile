@@ -34,6 +34,7 @@ brew gnu-getopt
 brew go
 brew gpac
 brew graphite2
+brew grep
 brew harfbuzz
 brew hub --HEAD
 brew icu4c
@@ -102,7 +103,6 @@ cask docker-edge
 cask google-chrome-canary
 cask iterm2-nightly
 cask microsoft-remote-desktop-beta
-cask powershell-preview
 cask safari-technology-preview
 cask visual-studio-code-insiders
 
@@ -112,10 +112,12 @@ cask air-video-server-hd
 cask bbedit
 cask disk-inventory-x
 cask dupscanub
+cask flash-npapi
 cask google-chrome
 cask jetbrains-toolbox
 cask onedrive
-cask qlstephen
+cask powershell
+cask soundflower
 cask the-unarchiver
 cask virtualbox
 cask vmware-fusion
@@ -145,7 +147,14 @@ cask font-source-han-code-jp
 cask google-japanese-ime
 cask macwinzipper
 cask parallels-client
+cask qlstephen
 cask sourcetree
 cask vagrant
 cask virtualbox-extension-pack
 cask xld
+
+# App Store applications
+appstore 411213048 LadioCast (000012005)
+appstore 539883307 LINE (5.10.0)
+appstore 1273998507 Turn Off the Lights for Safari (3.4.33)
+appstore 485812721 TweetDeck (3.9.889)
