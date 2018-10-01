@@ -29,6 +29,7 @@ brew git
 brew git-flow-avh
 brew git-lfs
 brew glib
+brew glide
 brew gmp
 brew gnu-getopt
 brew go
@@ -154,7 +155,7 @@ cask virtualbox-extension-pack
 cask xld
 
 # App Store applications
-appstore 411213048 LadioCast (000012005)
+appstore 411213048 LadioCast (000012006)
 appstore 539883307 LINE (5.10.0)
 appstore 1273998507 Turn Off the Lights for Safari (3.4.33)
 appstore 485812721 TweetDeck (3.9.889)
