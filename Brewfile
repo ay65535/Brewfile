@@ -91,7 +91,7 @@ brew wget
 brew x264
 brew x265
 brew xvid
-brew youtube-dl --HEAD
+brew youtube-dl
 brew zsh-completions --HEAD
 
 tap homebrew/cask-fonts
