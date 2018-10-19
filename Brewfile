@@ -37,6 +37,7 @@ brew gpac
 brew graphite2
 brew grep
 brew harfbuzz
+brew htop --with-ncurses
 brew hub --HEAD
 brew icu4c
 brew jansson
@@ -75,6 +76,7 @@ brew pcre2
 brew peco --HEAD
 brew pixman
 brew pkg-config
+brew pstree
 brew readline
 brew reattach-to-user-namespace --HEAD
 brew rmtrash
