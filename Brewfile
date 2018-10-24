@@ -16,7 +16,7 @@ brew curl --with-c-ares --with-gssapi --with-libmetalink --with-libssh2 --with-n
 brew diff-so-fancy
 brew dos2unix
 brew fdk-aac
-brew ffmpeg --with-fdk-aac --with-libass --with-rtmpdump --with-sdl2 --with-webp --with-x265 --with-fontconfig --with-game-music-emu --with-libbluray --with-libvorbis --with-libvpx --with-opus
+brew ffmpeg --with-fdk-aac --with-libass --with-rtmpdump --with-webp --with-fontconfig --with-game-music-emu --with-libbluray
 brew fontconfig
 brew freetype
 brew fribidi
@@ -84,7 +84,9 @@ brew rtmpdump
 brew ruby-completion --HEAD
 brew sdl2
 brew shfmt
+brew snappy
 brew texi2html
+brew theora
 brew tmux
 brew tree
 brew vagrant-completion --HEAD
@@ -93,6 +95,7 @@ brew wget
 brew x264
 brew x265
 brew xvid
+brew xz
 brew youtube-dl
 brew zsh-completions --HEAD
 
@@ -159,5 +162,5 @@ cask xld
 # App Store applications
 appstore 411213048 LadioCast (000012006)
 appstore 539883307 LINE (5.10.1)
-appstore 1273998507 Turn Off the Lights for Safari (3.4.33)
+appstore 1273998507 Turn Off the Lights for Safari (4.0.25)
 appstore 485812721 TweetDeck (3.9.889)
