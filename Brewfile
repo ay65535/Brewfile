@@ -64,6 +64,7 @@ brew mas
 brew mpfr
 brew nasm
 brew ncdu
+brew ncurses
 brew nghttp2
 brew nkf
 brew nmap
