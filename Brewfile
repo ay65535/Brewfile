@@ -25,7 +25,7 @@ brew game-music-emu
 brew gawk
 brew gettext
 brew ghq
-brew git --HEAD
+brew git
 brew git-flow-avh
 brew git-lfs
 brew glib
@@ -38,7 +38,6 @@ brew graphite2
 brew grep
 brew harfbuzz
 brew htop --with-ncurses
-brew hub --HEAD
 brew icu4c
 brew jansson
 brew jemalloc
@@ -122,8 +121,9 @@ cask dupscanub
 cask flash-npapi
 cask google-chrome
 cask jetbrains-toolbox
-cask onedrive
-cask powershell
+cask mysqlworkbench
+cask parallels-client
+cask qlstephen
 cask soundflower
 cask the-unarchiver
 cask virtualbox
@@ -153,8 +153,9 @@ cask font-source-code-pro
 cask font-source-han-code-jp
 cask google-japanese-ime
 cask macwinzipper
-cask parallels-client
-cask qlstephen
+cask onedrive
+cask powershell
+cask sequel-pro-nightly
 cask sourcetree
 cask vagrant
 cask virtualbox-extension-pack
