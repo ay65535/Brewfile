@@ -28,6 +28,7 @@ brew ghq
 brew git
 brew git-flow-avh
 brew git-lfs
+brew git-town
 brew glib
 brew glide
 brew gmp
@@ -97,6 +98,7 @@ brew x265
 brew xvid
 brew xz
 brew youtube-dl
+brew zsh --with-unicode9 --without-etcdir
 brew zsh-completions --HEAD
 
 tap homebrew/cask-fonts
