@@ -20,7 +20,7 @@ brew ffmpeg --with-fdk-aac --with-libass --with-rtmpdump --with-webp --with-font
 brew fontconfig
 brew freetype
 brew fribidi
-brew fzf --HEAD
+brew fzf
 brew game-music-emu
 brew gawk
 brew gettext
