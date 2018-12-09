@@ -12,7 +12,7 @@ brew brew-cask-completion
 brew c-ares
 brew cairo
 brew coreutils
-brew curl --with-c-ares --with-gssapi --with-libmetalink --with-libssh2 --with-nghttp2 --with-rtmpdump
+brew curl --with-rtmpdump --with-libssh2 --with-c-ares --with-gssapi --with-libmetalink --with-nghttp2
 brew diff-so-fancy
 brew dos2unix
 brew fdk-aac
@@ -25,7 +25,6 @@ brew game-music-emu
 brew gawk
 brew gettext
 brew ghq
-brew git
 brew git-flow-avh
 brew git-lfs
 brew git-town
@@ -170,7 +169,11 @@ cask virtualbox-extension-pack
 cask xld
 
 # App Store applications
-appstore 411213048 LadioCast (000012006)
-appstore 539883307 LINE (5.10.1)
-appstore 1273998507 Turn Off the Lights for Safari (4.0.25)
+appstore 1432731683 Adblock Plus (2.0.3)
+appstore 411213048 LadioCast (000013000)
+appstore 539883307 LINE (5.11.2)
+appstore 409203825 Numbers (5.3)
+appstore 409201541 Pages (7.3)
+appstore 1273998507 Turn Off the Lights for Safari (4.0.28)
 appstore 485812721 TweetDeck (3.9.889)
+appstore 497799835 Xcode (10.1)
