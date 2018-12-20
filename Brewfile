@@ -123,7 +123,6 @@ cask evernote
 cask google-chrome
 cask java
 cask jetbrains-toolbox
-cask libreoffice-language-pack
 cask mysqlworkbench
 cask onedrive
 cask powershell
@@ -157,7 +156,6 @@ cask font-source-code-pro
 cask font-source-han-code-jp
 cask google-japanese-ime
 cask jdiskreport
-cask libreoffice
 cask macwinzipper
 cask omnidisksweeper
 cask parallels-client
