@@ -126,10 +126,11 @@ cask jetbrains-toolbox
 cask mysqlworkbench
 cask onedrive
 cask powershell
-cask soundflower
-cask the-unarchiver
-cask virtualbox
-cask vmware-fusion
+cask skype
+cask sourcetree
+cask vagrant
+cask virtualbox-extension-pack
+cask xld
 
 tap beeftornado/rmtree
 brew brew-rmtree
@@ -161,10 +162,10 @@ cask omnidisksweeper
 cask parallels-client
 cask qlstephen
 cask sequel-pro-nightly
-cask sourcetree
-cask vagrant
-cask virtualbox-extension-pack
-cask xld
+cask soundflower
+cask the-unarchiver
+cask virtualbox
+cask vmware-fusion
 
 # App Store applications
 appstore 1432731683 Adblock Plus (2.0.3)
