@@ -88,6 +88,7 @@ brew snappy
 brew texi2html
 brew theora
 brew tmux
+brew trash
 brew tree
 brew vagrant-completion --HEAD
 brew webp
