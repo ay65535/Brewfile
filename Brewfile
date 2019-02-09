@@ -3,6 +3,7 @@
 
 tap homebrew/core
 brew afsctool
+brew aom
 brew autoconf
 brew automake
 brew bash --HEAD
@@ -17,6 +18,7 @@ brew diff-so-fancy
 brew dos2unix
 brew fdk-aac
 brew ffmpeg
+brew flac
 brew fontconfig
 brew freetype
 brew frei0r
@@ -26,6 +28,7 @@ brew game-music-emu
 brew gawk
 brew gettext
 brew ghq
+brew giflib
 brew git-flow-avh --HEAD
 brew git-lfs
 brew git-town
@@ -33,18 +36,20 @@ brew glib
 brew glide
 brew gmp
 brew gnu-getopt
+brew gnutls
 brew go
 brew gpac
 brew graphite2
 brew grep
 brew harfbuzz
-brew htop --with-ncurses
+brew htop
 brew icu4c
 brew jansson
 brew jemalloc
 brew jpeg
 brew lame
 brew launchctl-completion
+brew leptonica
 brew lesspipe --with-syntax-highlighting
 brew libass
 brew libbluray
@@ -55,23 +60,32 @@ brew libidn2
 brew libmetalink
 brew libogg
 brew libpng
+brew libsamplerate
+brew libsndfile
+brew libsoxr
 brew libssh2
+brew libtasn1
+brew libtiff
 brew libtool
 brew libunistring
 brew libvorbis
 brew libvpx
+brew little-cms2
 brew mas
 brew mpfr
 brew nasm
 brew ncdu
 brew ncurses
+brew nettle
 brew nghttp2
 brew nkf
 brew nmap
 brew open-completion --HEAD
 brew opencore-amr
+brew openjpeg
 brew openssl
 brew opus
+brew p11-kit
 brew pandoc
 brew pcre
 brew pcre2
@@ -83,11 +97,13 @@ brew readline
 brew reattach-to-user-namespace --HEAD
 brew rmtrash
 brew rtmpdump
+brew rubberband
 brew ruby-completion --HEAD
 brew sdl2
 brew shfmt
 brew snappy
 brew speex
+brew tesseract
 brew texi2html
 brew theora
 brew tmux
