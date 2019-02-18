@@ -29,6 +29,7 @@ brew gawk
 brew gettext
 brew ghq
 brew giflib
+brew git
 brew git-flow-avh --HEAD
 brew git-lfs
 brew git-town
@@ -70,6 +71,7 @@ brew libtool
 brew libunistring
 brew libvorbis
 brew libvpx
+brew libyaml
 brew little-cms2
 brew mas
 brew mpfr
@@ -98,6 +100,7 @@ brew reattach-to-user-namespace --HEAD
 brew rmtrash
 brew rtmpdump
 brew rubberband
+brew ruby
 brew ruby-completion --HEAD
 brew sdl2
 brew shfmt
