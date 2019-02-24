@@ -194,7 +194,7 @@ cask xld
 # App Store applications
 appstore 1432731683 Adblock Plus (2.0.4)
 appstore 411213048 LadioCast (000013000)
-appstore 539883307 LINE (5.13.1)
+appstore 539883307 LINE (5.14.0)
 appstore 409203825 Numbers (5.3)
 appstore 409201541 Pages (7.3)
 appstore 1273998507 Turn Off the Lights for Safari (4.0.28)
