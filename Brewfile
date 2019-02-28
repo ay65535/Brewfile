@@ -91,7 +91,6 @@ brew p11-kit
 brew pandoc
 brew pcre
 brew pcre2
-brew peco --HEAD
 brew pixman
 brew pkg-config
 brew pstree
@@ -198,5 +197,5 @@ appstore 539883307 LINE (5.14.0)
 appstore 409203825 Numbers (5.3)
 appstore 409201541 Pages (7.3)
 appstore 1273998507 Turn Off the Lights for Safari (4.0.28)
-appstore 485812721 TweetDeck (3.11)
+appstore 485812721 TweetDeck (3.12)
 appstore 497799835 Xcode (10.1)
