@@ -26,6 +26,7 @@ brew fribidi
 brew fzf
 brew game-music-emu
 brew gawk
+brew gdbm
 brew gettext
 brew ghq
 brew giflib
@@ -95,6 +96,7 @@ brew peco
 brew pixman
 brew pkg-config
 brew pstree
+brew python
 brew readline
 brew reattach-to-user-namespace --HEAD
 brew rmtrash
@@ -106,6 +108,7 @@ brew sdl2
 brew shfmt
 brew snappy
 brew speex
+brew sqlite
 brew tesseract
 brew texi2html
 brew theora
