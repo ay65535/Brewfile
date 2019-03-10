@@ -145,8 +145,9 @@ cask 1password
 cask air-video-server-hd
 cask bbedit
 cask daisydisk
-cask dropbox
-cask evernote
+cask dotnet-sdk
+cask dupscanub
+cask flash-npapi
 cask google-chrome
 cask java
 cask jetbrains-toolbox
@@ -178,8 +179,8 @@ cask adobe-air
 cask appcleaner
 cask clipy
 cask disk-inventory-x
-cask dupscanub
-cask flash-npapi
+cask dropbox
+cask evernote
 cask font-source-code-pro
 cask font-source-han-code-jp
 cask google-japanese-ime
