@@ -6,7 +6,7 @@ brew afsctool
 brew aom
 brew autoconf
 brew automake
-brew bash --HEAD
+brew bash
 brew bash-completion
 brew boost
 brew brew-cask-completion
@@ -115,6 +115,7 @@ brew theora
 brew tmux
 brew trash
 brew tree
+brew unbound
 brew vagrant-completion --HEAD
 brew webp
 brew wget
@@ -132,7 +133,6 @@ cask font-source-code-pro-for-powerline
 
 tap homebrew/cask-versions
 cask atom-beta
-cask docker-edge
 cask firefox-developer-edition
 cask github-beta
 cask google-chrome-canary
@@ -146,9 +146,9 @@ cask 1password
 cask air-video-server-hd
 cask bbedit
 cask daisydisk
-cask dotnet-sdk
-cask dupscanub
-cask flash-npapi
+cask docker
+cask dropbox
+cask evernote
 cask google-chrome
 cask java
 cask jetbrains-toolbox
@@ -180,8 +180,9 @@ cask adobe-air
 cask appcleaner
 cask clipy
 cask disk-inventory-x
-cask dropbox
-cask evernote
+cask dotnet-sdk
+cask dupscanub
+cask flash-npapi
 cask font-source-code-pro
 cask font-source-han-code-jp
 cask google-japanese-ime
@@ -200,7 +201,7 @@ cask xld
 # App Store applications
 appstore 1432731683 Adblock Plus (2.0.4)
 appstore 411213048 LadioCast (000013000)
-appstore 539883307 LINE (5.14.0)
+appstore 539883307 LINE (5.15.0)
 appstore 409203825 Numbers (5.3)
 appstore 409201541 Pages (7.3)
 appstore 1273998507 Turn Off the Lights for Safari (4.0.28)
