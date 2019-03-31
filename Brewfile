@@ -149,12 +149,13 @@ cask daisydisk
 cask docker
 cask dropbox
 cask evernote
-cask google-chrome
-cask java
-cask jetbrains-toolbox
-cask mysqlworkbench
-cask onedrive
-cask powershell
+cask fork
+cask google-japanese-ime
+cask jdiskreport
+cask macwinzipper
+cask omnidisksweeper
+cask parallels-client
+cask qlstephen
 cask skype
 cask sourcetree
 cask vagrant
@@ -185,12 +186,12 @@ cask dupscanub
 cask flash-npapi
 cask font-source-code-pro
 cask font-source-han-code-jp
-cask google-japanese-ime
-cask jdiskreport
-cask macwinzipper
-cask omnidisksweeper
-cask parallels-client
-cask qlstephen
+cask google-chrome
+cask java
+cask jetbrains-toolbox
+cask mysqlworkbench
+cask onedrive
+cask powershell
 cask sequel-pro-nightly
 cask soundflower
 cask the-unarchiver
@@ -199,11 +200,11 @@ cask vlc
 cask xld
 
 # App Store applications
-appstore 1432731683 Adblock Plus (2.0.4)
-appstore 411213048 LadioCast (000013000)
-appstore 539883307 LINE (5.15.0)
-appstore 409203825 Numbers (5.3)
-appstore 409201541 Pages (7.3)
-appstore 1273998507 Turn Off the Lights for Safari (4.0.28)
-appstore 485812721 TweetDeck (3.14)
-appstore 497799835 Xcode (10.1)
+appstore 411213048  (000013000)
+appstore 497799835  (10.2)
+appstore 1432731683  (2.0.4)
+appstore 485812721  (3.14)
+appstore 1273998507  (4.0.28)
+appstore 539883307  (5.15.0)
+appstore 409203825  (6.0)
+appstore 409201541  (8.0)
