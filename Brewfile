@@ -200,11 +200,11 @@ cask vlc
 cask xld
 
 # App Store applications
-appstore 411213048  (000013000)
-appstore 497799835  (10.2)
-appstore 1432731683  (2.0.4)
-appstore 485812721  (3.14)
-appstore 1273998507  (4.0.28)
-appstore 539883307  (5.15.0)
-appstore 409203825  (6.0)
-appstore 409201541  (8.0)
+appstore 497799835 com.apple.dt.Xcode (10.2)
+appstore 409203825 com.apple.iWork.Numbers (6.0)
+appstore 409201541 com.apple.iWork.Pages (8.0)
+appstore 411213048 com.kawauso.LadioCast (000013000)
+appstore 1273998507 com.stefanvd.Turn-Off-the-Lights-for-Safari (4.0.28)
+appstore 485812721 com.twitter.TweetDeck (3.14)
+appstore 539883307 jp.naver.line.mac (5.15.0)
+appstore 1432731683 org.adblockplus.adblockplussafarimac (2.0.4)
