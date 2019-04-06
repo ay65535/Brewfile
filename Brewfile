@@ -12,6 +12,7 @@ brew boost
 brew brew-cask-completion
 brew c-ares
 brew cairo
+brew cmake
 brew coreutils
 brew curl
 brew diff-so-fancy
