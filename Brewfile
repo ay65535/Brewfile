@@ -39,6 +39,7 @@ brew glib
 brew glide
 brew gmp
 brew gnu-getopt
+brew gnu-sed
 brew gnutls
 brew go
 brew gpac
