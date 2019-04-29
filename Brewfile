@@ -154,15 +154,16 @@ cask evernote
 cask fork
 cask google-japanese-ime
 cask jdiskreport
-cask macwinzipper
-cask omnidisksweeper
-cask parallels-client
-cask qlstephen
+cask karabiner-elements
+cask mysqlworkbench
+cask onedrive
+cask powershell
 cask skype
 cask sourcetree
 cask vagrant
 cask virtualbox-extension-pack
-cask vmware-fusion
+cask vlc
+cask xld
 
 tap beeftornado/rmtree
 brew brew-rmtree
@@ -191,15 +192,16 @@ cask font-source-han-code-jp
 cask google-chrome
 cask java
 cask jetbrains-toolbox
-cask mysqlworkbench
-cask onedrive
-cask powershell
+cask macwinzipper
+cask omnidisksweeper
+cask parallels-client
+cask qlstephen
 cask sequel-pro-nightly
 cask soundflower
 cask the-unarchiver
 cask virtualbox
-cask vlc
-cask xld
+cask visual-studio
+cask vmware-fusion
 
 # App Store applications
 appstore 497799835 com.apple.dt.Xcode (10.2.1)
