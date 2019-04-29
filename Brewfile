@@ -155,9 +155,10 @@ cask fork
 cask google-japanese-ime
 cask jdiskreport
 cask karabiner-elements
-cask mysqlworkbench
-cask onedrive
-cask powershell
+cask mono-mdk
+cask omnidisksweeper
+cask parallels-client
+cask qlstephen
 cask skype
 cask sourcetree
 cask vagrant
@@ -193,9 +194,9 @@ cask google-chrome
 cask java
 cask jetbrains-toolbox
 cask macwinzipper
-cask omnidisksweeper
-cask parallels-client
-cask qlstephen
+cask mysqlworkbench
+cask onedrive
+cask powershell
 cask sequel-pro-nightly
 cask soundflower
 cask the-unarchiver
