@@ -106,6 +106,7 @@ brew rtmpdump
 brew rubberband
 brew ruby
 brew ruby-completion --HEAD
+brew rustup-init
 brew sdl2
 brew shfmt
 brew snappy
@@ -153,12 +154,11 @@ cask dropbox
 cask evernote
 cask fork
 cask google-japanese-ime
-cask jdiskreport
-cask karabiner-elements
-cask mono-mdk
-cask omnidisksweeper
-cask parallels-client
-cask qlstephen
+cask jetbrains-toolbox
+cask macwinzipper
+cask mysqlworkbench
+cask onedrive
+cask powershell
 cask skype
 cask sourcetree
 cask vagrant
@@ -192,11 +192,11 @@ cask font-source-code-pro
 cask font-source-han-code-jp
 cask google-chrome
 cask java
-cask jetbrains-toolbox
-cask macwinzipper
-cask mysqlworkbench
-cask onedrive
-cask powershell
+cask karabiner-elements
+cask mono-mdk
+cask omnidisksweeper
+cask parallels-client
+cask qlstephen
 cask sequel-pro-nightly
 cask soundflower
 cask the-unarchiver
