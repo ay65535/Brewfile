@@ -132,7 +132,11 @@ brew zsh-completions --HEAD
 
 tap homebrew/cask-fonts
 cask font-fira-code
-cask font-source-code-pro-for-powerline
+cask font-noto-serif-cjk-jp
+cask font-source-code-pro
+cask font-source-han-code-jp
+cask font-source-han-serif
+cask font-source-serif-pro
 
 tap homebrew/cask-versions
 cask atom-beta
@@ -188,8 +192,11 @@ cask disk-inventory-x
 cask dotnet-sdk
 cask dupscanub
 cask flash-npapi
-cask font-source-code-pro
-cask font-source-han-code-jp
+cask font-noto-sans-cjk-jp
+cask font-roboto
+cask font-source-code-pro-for-powerline
+cask font-source-han-sans
+cask font-source-sans-pro
 cask google-chrome
 cask java
 cask karabiner-elements
