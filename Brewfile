@@ -140,6 +140,7 @@ cask font-source-serif-pro
 
 tap homebrew/cask-versions
 cask atom-beta
+cask docker-edge
 cask firefox-developer-edition
 cask github-beta
 cask google-chrome-canary
@@ -153,9 +154,8 @@ cask 1password
 cask air-video-server-hd
 cask bbedit
 cask disk-inventory-x
-cask dotnet-sdk
-cask dupscanub
-cask flash-npapi
+cask dropbox
+cask evernote
 cask fork
 cask google-japanese-ime
 cask jetbrains-toolbox
@@ -188,9 +188,9 @@ brew ripgrep-bin
 cask adobe-air
 cask appcleaner
 cask clipy
-cask docker
-cask dropbox
-cask evernote
+cask dotnet-sdk
+cask dupscanub
+cask flash-npapi
 cask font-noto-sans-cjk-jp
 cask font-roboto
 cask font-source-code-pro-for-powerline
