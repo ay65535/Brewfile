@@ -211,7 +211,7 @@ cask visual-studio
 cask vmware-fusion
 
 # App Store applications
-appstore 1432731683 Adblock Plus (2.0.5)
+appstore 1432731683 Adblock Plus (2.0.6)
 appstore 411213048 LadioCast (000013000)
 appstore 539883307 LINE (5.16.2)
 appstore 409203825 Numbers (6.0)
