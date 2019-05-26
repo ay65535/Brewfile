@@ -85,6 +85,7 @@ brew nettle
 brew nghttp2
 brew nkf
 brew nmap
+brew node
 brew open-completion --HEAD
 brew opencore-amr
 brew openjpeg
