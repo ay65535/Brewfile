@@ -154,9 +154,10 @@ tap homebrew/cask
 cask 1password
 cask air-video-server-hd
 cask bbedit
-cask disk-inventory-x
-cask dropbox
-cask evernote
+cask diffmerge
+cask dotnet-sdk
+cask dupscanub
+cask flash-npapi
 cask fork
 cask google-japanese-ime
 cask jetbrains-toolbox
@@ -189,9 +190,9 @@ brew ripgrep-bin
 cask adobe-air
 cask appcleaner
 cask clipy
-cask dotnet-sdk
-cask dupscanub
-cask flash-npapi
+cask disk-inventory-x
+cask dropbox
+cask evernote
 cask font-noto-sans-cjk-jp
 cask font-roboto
 cask font-source-code-pro-for-powerline
