@@ -30,6 +30,7 @@ brew gawk
 brew gdbm
 brew gettext
 brew ghq
+brew gibo
 brew giflib
 brew git
 brew git-flow-avh --HEAD
@@ -100,12 +101,13 @@ brew pixman
 brew pkg-config
 brew pstree
 brew python
+brew rbenv
 brew readline
 brew reattach-to-user-namespace --HEAD
 brew rmtrash
 brew rtmpdump
 brew rubberband
-brew ruby
+brew ruby-build
 brew ruby-completion --HEAD
 brew rustup-init
 brew sdl2
@@ -161,10 +163,11 @@ cask flash-npapi
 cask fork
 cask google-japanese-ime
 cask jetbrains-toolbox
-cask macwinzipper
-cask mysqlworkbench
-cask onedrive
-cask powershell
+cask launchcontrol
+cask mono-mdk
+cask omnidisksweeper
+cask parallels-client
+cask qlstephen
 cask skype
 cask sourcetree
 cask vagrant
@@ -201,10 +204,10 @@ cask font-source-sans-pro
 cask google-chrome
 cask java
 cask karabiner-elements
-cask mono-mdk
-cask omnidisksweeper
-cask parallels-client
-cask qlstephen
+cask macwinzipper
+cask mysqlworkbench
+cask onedrive
+cask powershell
 cask sequel-pro-nightly
 cask soundflower
 cask the-unarchiver
