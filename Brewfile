@@ -218,6 +218,7 @@ cask vmware-fusion
 appstore 1432731683 Adblock Plus (2.0.6)
 appstore 411213048 LadioCast (000013000)
 appstore 539883307 LINE (5.16.2)
+appstore 1295203466 Microsoft Remote Desktop (10.2.13)
 appstore 409203825 Numbers (6.0)
 appstore 409201541 Pages (8.0)
 appstore 1273998507 Turn Off the Lights for Safari (4.0.28)
