@@ -33,6 +33,7 @@ brew ghq
 brew gibo
 brew giflib
 brew git
+brew git-flow-avh
 brew git-lfs
 brew git-town
 brew glib
