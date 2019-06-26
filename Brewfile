@@ -168,7 +168,6 @@ cask kitematic
 cask mono-mdk
 cask omnidisksweeper
 cask parallels-client
-cask qlstephen
 cask skype
 cask sourcetree
 cask vagrant
