@@ -159,15 +159,15 @@ cask air-video-server-hd
 cask bbedit
 cask diffmerge
 cask dotnet-sdk
-cask evernote
+cask dupeguru
+cask flash-npapi
 cask fork
-cask google-chrome
-cask java
-cask karabiner-elements
-cask macwinzipper
-cask mysqlworkbench
-cask onedrive
-cask powershell
+cask google-japanese-ime
+cask jetbrains-toolbox
+cask kitematic
+cask mono-mdk
+cask omnidisksweeper
+cask parallels-client
 cask skype
 cask sourcetree
 cask vagrant
@@ -195,19 +195,19 @@ cask appcleaner
 cask clipy
 cask disk-inventory-x
 cask dropbox
-cask flash-npapi
+cask evernote
 cask font-noto-sans-cjk-jp
 cask font-roboto
 cask font-source-code-pro-for-powerline
 cask font-source-han-sans
 cask font-source-sans-pro
-cask gemini
-cask google-japanese-ime
-cask jetbrains-toolbox
-cask kitematic
-cask mono-mdk
-cask omnidisksweeper
-cask parallels-client
+cask google-chrome
+cask java
+cask karabiner-elements
+cask macwinzipper
+cask mysqlworkbench
+cask onedrive
+cask powershell
 cask sequel-pro-nightly
 cask soundflower
 cask the-unarchiver
@@ -217,6 +217,7 @@ cask vmware-fusion
 
 # App Store applications
 appstore 1432731683 Adblock Plus (2.0.6)
+appstore 1032755628 Duplicate File Finder (5.6)
 appstore 411213048 LadioCast (000013000)
 appstore 539883307 LINE (5.17.2)
 appstore 1295203466 Microsoft Remote Desktop (10.2.13)
