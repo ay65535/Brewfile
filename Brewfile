@@ -24,7 +24,7 @@ brew fontconfig
 brew freetype
 brew frei0r
 brew fribidi
-brew fzf
+brew fzf --HEAD
 brew game-music-emu
 brew gawk
 brew gdbm
@@ -110,7 +110,6 @@ brew rtmpdump
 brew rubberband
 brew ruby-build
 brew ruby-completion --HEAD
-brew rustup-init
 brew sdl2
 brew shfmt
 brew snappy
@@ -221,8 +220,6 @@ appstore 1032755628 Duplicate File Finder (5.6)
 appstore 411213048 LadioCast (000013000)
 appstore 539883307 LINE (5.17.2)
 appstore 1295203466 Microsoft Remote Desktop (10.2.13)
-appstore 409203825 Numbers (6.1)
-appstore 409201541 Pages (8.1)
 appstore 1176895641 Spark (2.3.6)
 appstore 1273998507 Turn Off the Lights for Safari (4.0.28)
 appstore 485812721 TweetDeck (3.16.1)
