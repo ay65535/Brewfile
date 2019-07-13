@@ -111,6 +111,8 @@ brew rtmpdump
 brew rubberband
 brew ruby-build
 brew ruby-completion --HEAD
+brew rustc-completion --HEAD
+brew rustup-init
 brew sdl2
 brew shfmt
 brew snappy
