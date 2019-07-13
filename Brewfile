@@ -85,6 +85,7 @@ brew ncdu
 brew ncurses
 brew nettle
 brew nghttp2
+brew nim
 brew nkf
 brew nmap
 brew node
