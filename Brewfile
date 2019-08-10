@@ -118,6 +118,7 @@ brew shfmt
 brew snappy
 brew speex
 brew sqlite
+brew swiftformat
 brew tesseract
 brew texi2html
 brew theora
