@@ -139,11 +139,11 @@ brew zsh-completions --HEAD
 
 tap homebrew/cask-fonts
 cask font-fira-code
-cask font-noto-serif-cjk-jp
-cask font-source-code-pro
-cask font-source-han-code-jp
-cask font-source-han-serif
-cask font-source-serif-pro
+cask font-noto-sans-cjk-jp
+cask font-roboto
+cask font-source-code-pro-for-powerline
+cask font-source-han-sans
+cask font-source-sans-pro
 
 tap homebrew/cask-versions
 cask atom-beta
@@ -199,11 +199,12 @@ cask clipy
 cask disk-inventory-x
 cask dropbox
 cask evernote
-cask font-noto-sans-cjk-jp
-cask font-roboto
-cask font-source-code-pro-for-powerline
-cask font-source-han-sans
-cask font-source-sans-pro
+cask font-hasklig
+cask font-noto-serif-cjk-jp
+cask font-source-code-pro
+cask font-source-han-code-jp
+cask font-source-han-serif
+cask font-source-serif-pro
 cask google-chrome
 cask java
 cask karabiner-elements
@@ -220,10 +221,6 @@ cask vmware-fusion
 
 # App Store applications
 appstore 1432731683 Adblock Plus (2.0.6)
-appstore 1032755628 Duplicate File Finder (6.1.1)
 appstore 411213048 LadioCast (000013000)
-appstore 539883307 LINE (5.18.2)
-appstore 1295203466 Microsoft Remote Desktop (10.2.13)
-appstore 1176895641 Spark (2.3.9)
+appstore 539883307 LINE (5.18.3)
 appstore 1273998507 Turn Off the Lights for Safari (4.0.28)
-appstore 485812721 TweetDeck (3.16.1)
