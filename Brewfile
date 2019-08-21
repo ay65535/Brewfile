@@ -150,7 +150,6 @@ cask atom-beta
 cask docker-edge
 cask firefox-developer-edition
 cask github-beta
-cask google-chrome-canary
 cask iterm2-nightly
 cask microsoft-remote-desktop-beta
 cask safari-technology-preview
@@ -166,16 +165,13 @@ cask dupeguru
 cask flash-npapi
 cask fork
 cask google-japanese-ime
-cask jetbrains-toolbox
-cask kitematic
-cask mono-mdk
-cask omnidisksweeper
-cask parallels-client
-cask skype
+cask macwinzipper
+cask mysqlworkbench
+cask onedrive
+cask powershell
 cask sourcetree
 cask vagrant
-cask virtualbox-extension-pack
-cask vlc
+cask visual-studio
 cask xld
 
 tap beeftornado/rmtree
@@ -205,19 +201,15 @@ cask font-source-code-pro
 cask font-source-han-code-jp
 cask font-source-han-serif
 cask font-source-serif-pro
-cask google-chrome
+cask google-chrome-canary
 cask java
-cask karabiner-elements
-cask macwinzipper
-cask mysqlworkbench
-cask onedrive
-cask powershell
-cask sequel-pro-nightly
-cask soundflower
+cask mono-mdk
+cask omnidisksweeper
+cask parallels-client
+cask skype
 cask the-unarchiver
-cask virtualbox
-cask visual-studio
-cask vmware-fusion
+cask virtualbox-extension-pack
+cask vlc
 
 # App Store applications
 appstore 1432731683 Adblock Plus (2.0.6)
