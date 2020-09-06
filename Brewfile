@@ -2,22 +2,22 @@
 # tap repositories and their packages
 
 tap homebrew/core
-brew afsctool
+brew anyenv
 brew aom
+brew apr
+brew apr-util
+brew atomicparsley
 brew autoconf
-brew automake
-brew bash
-brew bash-completion
-brew boost
-brew brew-cask-completion
-brew c-ares
+brew bison
+brew cabal-install
+brew cabextract
 brew cairo
 brew cmake
 brew coreutils
-brew curl
-brew diff-so-fancy
-brew dos2unix
-brew fdk-aac
+brew diff-so-fancy --HEAD
+brew exif
+brew exiftool
+brew fdupes
 brew ffmpeg
 brew flac
 brew fontconfig
@@ -25,44 +25,35 @@ brew freetype
 brew frei0r
 brew fribidi
 brew fzf --HEAD
-brew game-music-emu
-brew gawk
 brew gdbm
 brew gettext
-brew ghq
+brew ghc
 brew gibo
 brew giflib
 brew git
-brew git-flow-avh
+brew git-filter-repo
+brew git-flow-avh --HEAD
 brew git-lfs
-brew git-town
 brew glib
-brew glide
 brew gmp
-brew gnu-getopt
-brew gnu-sed
 brew gnutls
 brew go
-brew gpac
+brew gptfdisk
 brew graphite2
 brew grep
 brew harfbuzz
-brew htop
 brew icu4c
-brew jansson
-brew jemalloc
 brew jpeg
+brew jq
 brew lame
-brew launchctl-completion
 brew leptonica
-brew lesspipe --with-syntax-highlighting
 brew libass
 brew libbluray
-brew libev
 brew libevent
+brew libexif
 brew libffi
+brew libiconv
 brew libidn2
-brew libmetalink
 brew libogg
 brew libpng
 brew libsamplerate
@@ -71,148 +62,140 @@ brew libsoxr
 brew libssh2
 brew libtasn1
 brew libtiff
-brew libtool
 brew libunistring
+brew libvidstab
 brew libvorbis
 brew libvpx
-brew libyaml
 brew little-cms2
+brew lz4
 brew lzo
 brew mas
-brew mpfr
-brew nasm
-brew ncdu
 brew ncurses
 brew nettle
-brew nghttp2
-brew nim
 brew nkf
-brew nmap
 brew node
-brew open-completion --HEAD
+brew oniguruma --HEAD
 brew opencore-amr
 brew openjpeg
-brew openssl
+brew openssl@1.1
 brew opus
 brew p11-kit
-brew pandoc
+brew p7zip
+brew pandoc --HEAD
 brew pcre
 brew pcre2
-brew peco
+brew perl
+brew pipenv
 brew pixman
 brew pkg-config
-brew pstree
-brew python
-brew rbenv
+brew popt
+brew rbenv --HEAD
 brew readline
-brew reattach-to-user-namespace --HEAD
-brew rmtrash
+brew ripgrep --HEAD
+brew rsync
 brew rtmpdump
 brew rubberband
-brew ruby-build
-brew ruby-completion --HEAD
-brew rustc-completion --HEAD
-brew rustup-init
+brew ruby-build --HEAD
+brew rust
 brew sdl2
-brew shfmt
 brew snappy
 brew speex
+brew sphinx-doc
 brew sqlite
-brew swiftformat
+brew starship
+brew swig --HEAD
 brew tesseract
-brew texi2html
 brew theora
-brew tmux
-brew trash
+brew tmux --HEAD
 brew tree
 brew unbound
-brew vagrant-completion --HEAD
+brew unrar
+brew utf8proc
+brew watch --HEAD
 brew webp
-brew wget
+brew winetricks
 brew x264
 brew x265
 brew xvid
+brew xxhash
 brew xz
 brew youtube-dl
-brew zsh
+brew zsh --HEAD
 brew zsh-completions --HEAD
+brew zstd
 
 tap homebrew/cask-fonts
+cask font-cascadia
+cask font-cascadia-pl
 cask font-fira-code
-cask font-noto-sans-cjk-jp
-cask font-roboto
-cask font-source-code-pro-for-powerline
-cask font-source-han-sans
-cask font-source-sans-pro
+cask font-hackgen-nerd
+cask font-jetbrains-mono-nerd-font
+cask font-myricam
+cask font-source-han-code-jp
+
+tap homebrew/cask-fonts
 
 tap homebrew/cask-versions
-cask atom-beta
+cask 1password-beta
 cask docker-edge
+cask dotnet-sdk-preview
 cask firefox-developer-edition
 cask github-beta
+cask google-chrome-dev
+cask google-japanese-ime-dev
 cask iterm2-nightly
-cask microsoft-remote-desktop-beta
-cask safari-technology-preview
+cask microsoft-edge-dev
+cask mono-mdk-for-visual-studio
+cask powershell-preview
 cask visual-studio-code-insiders
+cask vlc-nightly
+cask wine-devel
 
 tap homebrew/cask
-cask 1password
-cask air-video-server-hd
-cask bbedit
-cask diffmerge
-cask dotnet-sdk
-cask dupeguru
-cask flash-npapi
+cask alacritty
+cask appcleaner
+cask balenaetcher
+cask clipy
+cask dupscanub
+cask evernote
 cask fork
-cask google-japanese-ime
+cask gemini
+cask jetbrains-toolbox
+cask macclean
 cask macwinzipper
-cask mysqlworkbench
-cask onedrive
-cask powershell
-cask sourcetree
-cask vagrant
+cask mono-mdk
+cask oracle-jdk
+cask oracle-jdk-javadoc
+cask qlstephen
+cask sdformatter
+cask skype-for-business
+cask the-unarchiver
+cask tripmode
 cask visual-studio
+cask vlc
 cask xld
+cask xquartz
 
 tap beeftornado/rmtree
 brew brew-rmtree
 
-tap burntsushi/ripgrep
-
 tap rcmdnk/file
-brew brew-file --HEAD
+brew brew-file
+
+tap rcmdnk/rcmdnkpac
+brew parse-plist --HEAD
 
 tap sanemat/font
 brew ricty --with-powerline
 
 # Other Homebrew packages
-brew ripgrep-bin
-
-# Other Cask applications
-cask adobe-air
-cask appcleaner
-cask clipy
-cask disk-inventory-x
-cask dropbox
-cask evernote
-cask font-hasklig
-cask font-noto-serif-cjk-jp
-cask font-source-code-pro
-cask font-source-han-code-jp
-cask font-source-han-serif
-cask font-source-serif-pro
-cask google-chrome-canary
-cask java
-cask mono-mdk
-cask omnidisksweeper
-cask parallels-client
-cask skype
-cask the-unarchiver
-cask virtualbox-extension-pack
-cask vlc
+brew mediainfo
+brew python
+brew svn --HEAD
 
 # App Store applications
-appstore 1432731683 Adblock Plus (2.0.6)
-appstore 411213048 LadioCast (000013000)
-appstore 539883307 LINE (5.18.3)
-appstore 1273998507 Turn Off the Lights for Safari (4.0.28)
+appstore 1193539993 Brother iPrint&Scan (5.0.0)
+appstore 539883307 LINE (5.21.2)
+appstore 1295203466 Microsoft Remote Desktop (10.3.7)
+appstore 1176895641 Spark (2.5.2)
+appstore 497799835 Xcode (11.3)
