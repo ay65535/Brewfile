@@ -70,7 +70,7 @@ brew openjpeg
 brew openssl@1.1
 brew opus
 brew p11-kit
-brew pandoc --HEAD
+brew pandoc
 brew pcre
 brew pipenv
 brew pixman
@@ -115,6 +115,7 @@ cask font-source-han-code-jp
 tap homebrew/cask-versions
 cask 1password-beta
 cask docker-edge
+cask dropbox-beta
 cask google-chrome-dev
 cask google-japanese-ime-dev
 cask iterm2-nightly
@@ -125,15 +126,20 @@ cask visual-studio-code-insiders
 tap homebrew/cask
 cask appcleaner
 cask clipy
+cask disk-inventory-x
 cask evernote
 cask fork
+cask google-backup-and-sync
 cask macwinzipper
+cask onedrive
 cask qlstephen
 cask tripmode
 cask xld
 
 tap beeftornado/rmtree
 brew brew-rmtree
+
+tap beeftornado/rmtree
 
 tap rcmdnk/file
 brew brew-file --HEAD
