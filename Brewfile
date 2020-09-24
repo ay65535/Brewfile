@@ -11,6 +11,7 @@ brew fdupes
 brew ffmpeg
 brew fzf --HEAD
 brew gh
+brew ghq --HEAD
 brew git
 brew git-filter-repo
 brew git-flow-avh --HEAD
@@ -30,7 +31,6 @@ brew rbenv --HEAD
 brew ripgrep --HEAD
 brew rsync
 brew ruby-build
-brew rust
 brew starship
 brew tmux --HEAD
 brew tree
@@ -58,6 +58,7 @@ cask powershell-preview
 cask visual-studio-code-insiders
 
 tap homebrew/cask
+cask android-file-transfer
 cask appcleaner
 cask clipy
 cask disk-inventory-x
