@@ -16,13 +16,14 @@ brew git
 brew git-filter-repo
 brew git-flow-avh --HEAD
 brew git-lfs
-brew go --HEAD
+brew go
 brew grep
 brew jq --HEAD
 brew libiconv
 brew mas
+brew nasm
 brew nkf
-brew node --HEAD
+brew node
 brew opus
 brew pandoc
 brew pipenv
@@ -31,11 +32,13 @@ brew rbenv --HEAD
 brew ripgrep --HEAD
 brew rsync
 brew ruby-build
+brew rust
 brew starship
 brew tmux --HEAD
 brew tree
 brew watch --HEAD
 brew webp
+brew wget
 brew youtube-dl
 brew zsh --HEAD
 brew zsh-completions --HEAD
