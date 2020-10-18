@@ -3,6 +3,7 @@
 
 tap homebrew/core
 brew anyenv
+brew asciidoctor
 brew atomicparsley --HEAD
 brew coreutils
 brew diff-so-fancy --HEAD
@@ -32,7 +33,7 @@ brew rbenv --HEAD
 brew ripgrep --HEAD
 brew rsync
 brew ruby-build
-brew rust
+brew rustup-init
 brew starship
 brew tmux --HEAD
 brew tree
@@ -68,6 +69,7 @@ cask disk-inventory-x
 cask evernote
 cask fork
 cask google-backup-and-sync
+cask jetbrains-toolbox
 cask macwinzipper
 cask microsoft-auto-update
 cask onedrive
@@ -88,4 +90,4 @@ brew ricty
 appstore 1193539993 Brother iPrint&Scan (7.0.0)
 appstore 539883307 LINE (6.3.1)
 appstore 1295203466 Microsoft Remote Desktop (10.4.0)
-appstore 1176895641 Spark (2.8.3)
+appstore 1176895641 Spark (2.9.5)
