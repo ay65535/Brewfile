@@ -59,7 +59,6 @@ cask google-chrome-dev
 cask google-japanese-ime-dev
 cask iterm2-nightly
 cask microsoft-edge-dev
-cask powershell-preview
 cask visual-studio-code-insiders
 cask vlc-nightly
 
@@ -67,6 +66,7 @@ tap homebrew/cask
 cask android-file-transfer
 cask appcleaner
 cask clipy
+cask comparemerge
 cask disk-inventory-x
 cask dotnet-sdk
 cask evernote
@@ -83,12 +83,17 @@ cask xld
 tap beeftornado/rmtree
 brew brew-rmtree
 
+tap powershell/tap
+brew powershell-preview
+
 tap rcmdnk/file
+brew brew-file --HEAD
 
 tap sanemat/font
 brew ricty
 
 # App Store applications
+appstore 1432731683 Adblock Plus (2.1.6)
 appstore 1193539993 Brother iPrint&Scan (7.0.0)
 appstore 539883307 LINE (6.4.0)
 appstore 1295203466 Microsoft Remote Desktop (10.4.1)
