@@ -2,10 +2,12 @@
 # tap repositories and their packages
 
 tap homebrew/core
+brew afsctool
 brew anyenv
-brew asciidoctor
 brew atomicparsley --HEAD
-brew brew-rmtree
+brew brew-gem --HEAD
+brew carthage --HEAD
+brew cmake --HEAD
 brew coreutils
 brew diff-so-fancy --HEAD
 brew exiftool
@@ -14,35 +16,44 @@ brew ffmpeg
 brew fzf --HEAD
 brew gh
 brew ghq --HEAD
-brew git
+brew gibo
+brew git --HEAD
+brew git-filter-repo
 brew git-flow-avh --HEAD
 brew git-lfs
+brew gnu-sed
 brew go
 brew grep
 brew jq --HEAD
 brew libiconv
-brew mas
-brew nasm
+brew libssh2
+brew mas --HEAD
+brew ninja --HEAD
 brew nkf
 brew node
-brew opus
-brew pandoc
+brew oniguruma --HEAD
+brew openssl@1.1
+brew pcre
 brew pipenv
 brew pstree
+brew python@3.9
 brew rbenv --HEAD
 brew ripgrep --HEAD
 brew rsync
-brew ruby-build
+brew ruby
+brew ruby-build --HEAD
 brew rust
-brew starship
-brew tmux --HEAD
+brew shfmt --HEAD
+brew sphinx-doc
+brew tmux
 brew tree
 brew watch --HEAD
 brew webp
-brew wget --HEAD
+brew wget
+brew xcodegen --HEAD
+brew yarn
 brew youtube-dl
-brew zsh --HEAD
-brew zsh-completions --HEAD
+brew zsh
 
 tap homebrew/cask-fonts
 cask font-cascadia-code
@@ -52,50 +63,33 @@ cask font-source-han-code-jp
 
 tap homebrew/cask-versions
 cask 1password-beta
-cask docker-edge
-cask dropbox-beta
 cask firefox-developer-edition
-cask google-chrome-dev
-cask google-japanese-ime-dev
 cask iterm2-nightly
-cask microsoft-edge-dev
-cask visual-studio-code-insiders
-cask vlc-nightly
 
 tap homebrew/cask
-cask android-file-transfer
-cask appcleaner
-cask clipy
-cask comparemerge
-cask disk-inventory-x
-cask dotnet-sdk
-cask evernote
+cask bbedit
 cask fork
-cask google-backup-and-sync
-cask jetbrains-toolbox
-cask macwinzipper
-cask microsoft-auto-update
-cask onedrive
-cask qlstephen
+cask karabiner-elements
 cask tripmode
-cask xld
 
 tap beeftornado/rmtree
 brew brew-rmtree
 
-tap powershell/tap
-brew powershell-preview
-
 tap rcmdnk/file
 brew brew-file --HEAD
 
-tap sanemat/font
-brew ricty
-
 # App Store applications
-appstore 1432731683 Adblock Plus (2.1.6)
-appstore 1193539993 Brother iPrint&Scan (7.0.0)
-appstore 539883307 LINE (6.4.0)
-appstore 1295203466 Microsoft Remote Desktop (10.4.1)
-appstore 1176895641 Spark (2.9.10)
-appstore 1482454543 Twitter (8.44.1)
+appstore 1432731683 Adblock Plus
+appstore 417375580 BetterSnapTool
+appstore 1193539993 Brother iPrint&Scan
+appstore 682658836 GarageBand
+appstore 408981434 iMovie
+appstore 409183694 Keynote
+appstore 539883307 LINE
+appstore 1295203466 Microsoft Remote Desktop
+appstore 475772902 Night Sky
+appstore 409203825 Numbers
+appstore 409201541 Pages
+appstore 1176895641 Spark
+appstore 485812721 TweetDeck
+appstore 1482454543 Twitter
